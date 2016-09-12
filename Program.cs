@@ -14,7 +14,7 @@ namespace Helloworld
 
             Console.ReadKey();
 
-            Console.WriteLine("LQY");
+            Console.WriteLine("LQY1111");
         }
     }
 }

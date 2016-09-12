@@ -13,6 +13,8 @@ namespace Helloworld
             Console.WriteLine("OK");
 
             Console.ReadKey();
+
+            Console.WriteLine("");
         }
     }
 }
